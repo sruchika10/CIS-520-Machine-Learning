@@ -1,5 +1,4 @@
-# CIS-520-Machine-Learning
- **Description:**
+# CIS-520-Machine-Learning:
 This repository features my work and assignments completed during the machine learning course. It demonstrates my expertise in statistical learning techniques, utilization of machine learning tools, and hands-on experience in solving complex problems through practical applications.
 
 **Key Topics Covered:**
