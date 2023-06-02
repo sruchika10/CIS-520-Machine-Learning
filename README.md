@@ -9,6 +9,7 @@ This repository features my work and assignments completed during the machine le
 - **Reinforcement learning:** TD-learning, Q-learning, deep learning
 
 **Software:** Python, Jupyter, scikit-learn, PyTorch, Google Colab
+
 **Pre-requisites:** Basic probability and statistics, linear algebra, programming skills (especially Python)
 
 **Course Objective:**
